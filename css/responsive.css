@@ -4,6 +4,19 @@
         width: 100%;
     }
 
+    /* MORE ABOUT HOW */
+    .find {
+        margin: 0 15px 150px 15px;
+    }
+    .find__banner{
+        flex-direction: column;
+        justify-content: center;
+        background-image: url("../images/bg-pattern-how-we-work-mobile.svg");
+    }
+    .find__banner .fing__text h2{
+        font-size: 30px;
+    }
+
     /* FOOTER */
     .footer-top{
         flex-direction: column;
